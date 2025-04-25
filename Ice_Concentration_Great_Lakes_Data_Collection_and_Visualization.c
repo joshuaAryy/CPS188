@@ -1,4 +1,4 @@
-# CPS188 Data Collection and Visualization of Ice Concentration Trends on Ontatio's Great Lakes
+//CPS188 Data Collection and Visualization of Ice Concentration Trends on Ontatio's Great Lakes
 
 #include <stdio.h>
 #include <math.h> 
